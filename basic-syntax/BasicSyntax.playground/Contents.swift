@@ -1,8 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
-
 // Variables are defined using var
 // Variables are strong typed, variable type is inferred if not defined
 var str = "Hello, playground" // String
