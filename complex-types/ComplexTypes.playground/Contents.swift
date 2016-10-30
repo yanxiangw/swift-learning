@@ -31,7 +31,7 @@ capitals.updateValue("Canberra", forKey: "ACT")
 capitals.updateValue("Royal Melbourne", forKey: "VIC")
 
 // To delete key/value pair
-capitals["ACT"] = nil
+capitals["QLD"] = nil
 capitals.removeValueForKey("WA")
 capitals
 
